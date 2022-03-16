@@ -37,6 +37,7 @@ function getRandomIntInclusive(min, max) {
 
     document.getElementById('multi').innerHTML = 'Произведение чисел: ' + multi;
 
+    return arr = [];
 
 
 
